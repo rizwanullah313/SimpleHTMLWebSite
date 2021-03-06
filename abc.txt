@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Css Internal</title>
+<style>
+body
+{
+background-color:orange;
+}
+</style>
+</head>
+<body bgcolor="skyblue">
+I am Best Teacher in the World....
+
+</body>
+</html>
